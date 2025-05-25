@@ -23,7 +23,7 @@ export function HeroSection() {
             transition={{ delay: 0.2, duration: 0.8 }}
             className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent"
           >
-            Alex Chen
+            Krishna
           </motion.h1>
 
           <motion.p
